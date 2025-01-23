@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/music_disc"
+    },
+    "display": {
+        "name": {
+            "translate": "item.mondcraft_datapack.music_disc_soraniutau"
+        }
+    }
+}
